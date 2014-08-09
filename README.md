@@ -1,7 +1,7 @@
 Flash pv3d-engine demos
 ================================
 
-###nide鞋3d展示（可对3d物体进行编辑）
+###nide鞋3d展示（可对3d物体进行编辑,3dsmax建模）
 
 预览地址：[**点击此处**](http://kingarthas37.github.io/demos/demo-flash-pv3d/shoes3d/index.html)
 * ![http://kingarthas37.github.io/demos/demo-flash-pv3d/shoes3d/demo1.jpg](http://kingarthas37.github.io/demos/demo-flash-pv3d/shoes3d/demo1.jpg)
