@@ -21,6 +21,10 @@ Flash pv3d-engine demos
 * ![http://kingarthas37.github.io/demos/demo-flash-pv3d/notebook3d/demo1.jpg](http://kingarthas37.github.io/demos/demo-flash-pv3d/notebook3d/demo1.jpg)
 * ![http://kingarthas37.github.io/demos/demo-flash-pv3d/notebook3d/demo2.jpg](http://kingarthas37.github.io/demos/demo-flash-pv3d/notebook3d/demo2.jpg)
 
+####消费者价值空间模型
+预览地址：[**点击此处**](http://kingarthas37.github.io/demos/demo-flash-pv3d/cube3d/index.html)
+* ![http://kingarthas37.github.io/demos/demo-flash-pv3d/cube3d/demo1.jpg](http://kingarthas37.github.io/demos/demo-flash-pv3d/cube3d/demo1.jpg)
+
 ####图片360度旋转展示
 预览地址：[**点击此处**](http://kingarthas37.github.io/demos/demo-flash-pv3d/ad3d/index.html)
 * ![http://kingarthas37.github.io/demos/demo-flash-pv3d/ad3d/demo1.jpg](http://kingarthas37.github.io/demos/demo-flash-pv3d/ad3d/demo1.jpg)
