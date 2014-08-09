@@ -1,0 +1,28 @@
+﻿{
+ "param":{
+   "speed":0.4,  //旋转速度
+   "camera":{
+     "y":800, //camera初始高度
+	 "z":2000  //camera初始距离
+   }
+   },
+ "data":[
+  {"image":"datas/images/0.jpg","position":0,"width":108,"height":135,"title":"KingArthas","username":"Kingarthas","age":"1988-10-11","constellation":"射手座","state1":"1","state2":"20","state3":"10","state4":"91","url":"http://www.3651230.com"},
+  {"image":"datas/images/1.jpg","position":1,"width":80,"height":100,"title":"name1 引力:1","username":"name1","age":"1983-10-11","constellation":"水瓶座","state1":"2","state2":"30","state3":"20","state4":"92","url":"http://www.3651230.com"},
+  {"image":"datas/images/2.jpg","position":33,"width":80,"height":100,"title":"name2 引力:33","username":"name2","age":"1947-10-11","constellation":"金牛座","state1":"3","state2":"40","state3":"30","state4":"93","url":"http://www.3651230.com"},
+  {"image":"datas/images/3.jpg","position":45,"width":80,"height":100,"title":"name3 引力:45","username":"name3","age":"1988-6-21","constellation":"山羊座","state1":"4","state2":"21","state3":"40","state4":"94","url":"http://www.3651230.com"},
+  {"image":"datas/images/4.jpg","position":50,"width":80,"height":100,"title":"name4 引力:50","username":"name4","age":"1988-10-11","constellation":"摩羯座","state1":"5","state2":"50","state3":"50","state4":"95","url":"http://www.3651230.com"},
+  {"image":"datas/images/5.jpg","position":61,"width":80,"height":100,"title":"name5 引力:61","username":"name5","age":"1984-5-12","constellation":"双鱼座","state1":"6","state2":"56","state3":"60","state4":"96","url":"http://www.3651230.com"},
+  {"image":"datas/images/6.jpg","position":78,"width":80,"height":100,"title":"name6 引力:78","username":"name6","age":"1945-10-11","constellation":"天枰座","state1":"7","state2":"70","state3":"70","state4":"97","url":"http://www.3651230.com"},
+  {"image":"datas/images/7.jpg","position":80,"width":80,"height":100,"title":"name7 引力:80","username":"name7","age":"1982-11-11","constellation":"巨蟹座","state1":"8","state2":"80","state3":"80","state4":"98","url":"http://www.3651230.com"},
+  {"image":"datas/images/8.jpg","position":99,"width":80,"height":100,"title":"name8 引力:99","username":"name8","age":"1988-12-11","constellation":"双子座","state1":"9","state2":"920","state3":"90","state4":"99","url":"http://www.3651230.com"}
+ ],
+ "bg":[
+   {"url":"datas/images/bg0.jpg"},
+   {"url":"datas/images/bg1.jpg"},
+   {"url":"datas/images/bg2.jpg"},
+   {"url":"datas/images/bg3.jpg"},
+   {"url":"datas/images/bg4.jpg"},
+   {"url":"datas/images/bg5.jpg"}
+ ]
+}
