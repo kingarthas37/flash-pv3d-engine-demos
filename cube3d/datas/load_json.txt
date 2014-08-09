@@ -1,0 +1,35 @@
+﻿{
+ "param":{
+   "speed":0.4,  //旋转速度
+   "camera":{
+     "y":800, //camera初始高度
+	 "z":2000  //camera初始距离
+   }
+   },
+ "data":[
+  {"image":"datas/images/0.jpg","x":0,"y":56,"z":12,"width":120,"height":160,"title":"<p align='center'><font color='#4275B8'><b>John</b></font>\n<b>X:0 Y:56 Z:12</b></p>\nPlay Fun"},
+  {"image":"datas/images/1.jpg","x":1,"y":76,"z":58,"width":120,"height":160,"title":"<p align='center'><font color='#4275B8'><b>Green</b></font>\n<b>X:1 Y:76 Z:58</b></p>\nAesthetics Beauty"},
+  {"image":"datas/images/2.jpg","x":33,"y":11,"z":22,"width":120,"height":160,"title":"<p align='center'><font color='#4275B8'><b>Wendy</b></font>\n<b>X:33 Y:11 Z:22</b></p>\nStatus （Success, Impression, Management）"},
+  {"image":"datas/images/3.jpg","x":45,"y":80,"z":100,"width":120,"height":160,"title":"<p align='center'><font color='#4275B8'><b>Leo</b></font>\n<b>X:45 Y:80 Z:100</b></p>\nAesthetics Beauty"},
+  {"image":"datas/images/4.jpg","x":53,"y":23,"z":49,"width":120,"height":160,"title":"<p align='center'><font color='#4275B8'><b>Arthur</b></font>\n<b>X:53 Y:23 Z:49</b></p>\nStatus （Success, Impression, Management）"},
+  {"image":"datas/images/5.jpg","x":61,"y":55,"z":18,"width":120,"height":160,"title":"<p align='center'><font color='#4275B8'><b>Susan</b></font>\n<b>X:61 Y:55 Z:18</b></p>\nEfficiency (O/I, Convenience)"},
+  {"image":"datas/images/6.jpg","x":78,"y":7,"z":98,"width":120,"height":160,"title":"<p align='center'><font color='#4275B8'><b>Lisa</b></font>\n<b>X:78 Y:7 Z:98</b></p>\nEsteem (Reputation, Materialism, Possessions)"},
+  {"image":"datas/images/7.jpg","x":80,"y":34,"z":88,"width":120,"height":160,"title":"<p align='center'><font color='#4275B8'><b>Beata</b></font>\n<b>X:80 Y:34 Z:88</b></p>\nEsteem (Reputation, Materialism, Possessions"},
+  {"image":"datas/images/8.jpg","x":99,"y":94,"z":16,"width":120,"height":160,"title":"<p align='center'><font color='#4275B8'><b>Owen</b></font>\n<b>X:99 Y:94 Z:16</b></p>\nEfficiency (O/I, Convenience)"}
+ ],
+ "bg":[
+   {"url":"datas/images/bg0.jpg"},
+   {"url":"datas/images/bg1.jpg"},
+   {"url":"datas/images/bg2.jpg"}
+ ],
+ "axis":{
+   "x1":"Extrinsic",
+   "x2":"Intrinsic",
+   "y1":"Other-Oriented",
+   "y2":"Self-Oriented",
+   "z1":"Active",
+   "z2":"Reactive"
+ },
+ "intro":"消费者价值三维空间模型",
+ "cube":3
+}
